@@ -1,0 +1,1 @@
+console.log("Kwame Nana Owusu-Afriyie portfolio site loaded.");
